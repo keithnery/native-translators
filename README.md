@@ -2,7 +2,7 @@
   Native Translators 
 </h1>
 
->Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics.
+>Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics. Created to help preserve endangered native languages.
 
 ---
 
