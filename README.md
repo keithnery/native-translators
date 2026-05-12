@@ -1,8 +1,10 @@
+
+
 <h1 align="center"> 
   Native Translators 
 </h1>
 
->[!TIP]
+
 >Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics. Created to help preserve endangered native languages.
 
 ---
