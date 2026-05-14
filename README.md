@@ -13,7 +13,7 @@ Small translators for Brazilian indigenous languages, made while learning Python
 
 Created to help preserve endangered native languages
 
-### Current Projects
+#### Current Projects
 
 * Word-based Yaathe translator to portuguese
 
