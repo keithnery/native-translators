@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="guarana.png" width="100">
+</p>
 
 <h1 align="center"> 
   Native Translators 
@@ -17,6 +19,6 @@ Created to help preserve endangered native languages
 
 * Sentence-based Tupi Potiguara translator to portuguese and english
 
-## Note
 
-* Limited vocabulary and tools yet
+>[!CAUTION]
+>Limited vocabulary and tools yet
