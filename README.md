@@ -15,8 +15,9 @@ Created to help preserve endangered native languages
 
 ## Changelog
 
-#### (v0.1)
+### [v0.1.0] - 2026-04
 
-* Word-based Yaathe translator to portuguese
-* Sentence-based Tupi Potiguara translator to portuguese and english
-* Limited vocabulary and tools yet
+* Initial release
+* Word-based Yaathe-to-Portuguese translator
+* Sentence-based Tupi Potiguara-to-Portuguese-and-English translator
+* Limited vocabulary and features for now
